@@ -30,6 +30,7 @@ main#main.main {
 div#box.box {
   background-color: var(--white);
   height: 40rem;
+  max-height: 90%;
   width: 20rem;
   border-radius: 1rem;
   overflow: hidden;
